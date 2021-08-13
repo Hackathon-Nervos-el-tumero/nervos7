@@ -1,7 +1,7 @@
 # Gitcoin: 7) Port An Existing Ethereum DApp To Polyjuice
 
 ## Introduction
-Hello! I've made a simple voting dapp using Polyjuice and Godwoken. It's is based on my own smartcontract that I created recently. App was made with React. It's required to use `npm install` command to install all needed dependecies and `npm start` to run it.   
+Hello! I've made a simple voting dapp using Polyjuice and Godwoken. It's is based on my own smartcontract that I've created recently. App was made with React. It's required to use `npm install` command to install all needed dependecies and `npm start` to run it.   
 
 ## 1. Screenshots or video of application:
 Video demo link: https://www.youtube.com/watch?v=QRcukbeQzLA&ab_channel=tumer
